@@ -1,3 +1,5 @@
+// Triage Admitting Booth System
+// Created by Chritiane A. Bacani
 import java.util.Scanner;
 public class TriageAdmittingBoothSystem {
     public static void main(String[] args) {
